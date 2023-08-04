@@ -1,5 +1,5 @@
 # conflict-resolution
 
-## This is a subheading created internationally
+## This is a subheading created locally
 
-I gave up, sorry :p
+All of this content added to the README file has been added from my local repository.
